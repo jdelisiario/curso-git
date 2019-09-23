@@ -7,6 +7,8 @@ using System.Threading.Tasks;
 namespace ProjetoTeste {
     class Program {
         static void Main(string[] args) {
+            Console.WriteLine("Olá mundo!");
+            Console.WriteLine("Bom dia");
         }
     }
 }
